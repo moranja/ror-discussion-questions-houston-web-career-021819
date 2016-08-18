@@ -21,7 +21,7 @@ Take 30 minutes and discuss the following with your table group. Try whiteboardi
   * a Tweet show action and view to display only one tweet 
   * a Tweet comments action and view to display all comments for a single Tweet
 
-6 . What are the two private methods doing? How are they being called?
+6 . In the code below what are the two private methods doing? How are they being called?
 
 ```ruby
 class TweetController < ApplicationController
@@ -46,7 +46,7 @@ class TweetController < ApplicationController
 end
 ```
 
-7 . Write out an edit view with a form that will have a Post method to the update action.
+7 . Write out an edit view with a form that will have a Post method to the Tweet controllers' update action.
 
 CHALLENGE:
 
