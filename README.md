@@ -21,7 +21,7 @@ Take 30 minutes and discuss the following with your table group. Try whiteboardi
   * a Tweet show action and view to display only one tweet 
   * a Tweet comments action and view to display all comments for a single Tweet
 
-6 . In the code below what are the two private methods doing? How are they being called?
+6 . In the code below what are the two private methods doing? How are they being called? Why would we use them?
 
 ```ruby
 class TweetController < ApplicationController
